@@ -96,7 +96,7 @@ streamlit run app.py
 
 ## 📊 Output Example
 
-* Match Score: **78%**
+* Match Score: **85%**
 * Decision: **SHORTLISTED**
 * Skills Matched: Python, Flask, APIs
 * Chart: Skill Match Visualization
