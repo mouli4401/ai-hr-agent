@@ -6,7 +6,11 @@ An **Agentic AI-powered HR Assistant** built using **LangGraph + Groq (LLaMA 3)*
 
 ## 🚀 Demo
 
-📌 *(Add your screenshots here after uploading)*
+<img width="1919" height="957" alt="image" src="https://github.com/user-attachments/assets/68356f37-fbd4-4248-b622-6fd08c1205ac" />
+
+<img width="1485" height="479" alt="image" src="https://github.com/user-attachments/assets/de732784-61a1-4292-ab2d-bacb9bbd4f75" />
+
+
 
 * Dashboard UI
 * Resume Upload
